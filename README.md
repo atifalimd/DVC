@@ -26,6 +26,11 @@ source activate ./env
 pip install -r requirements.txt
 ```
 
+### STEP 05- install the requirements
+'''
+update setup.py accordingly and then
+install requirements.txt for setup.py
+'''
 ### STEP 05- initialize the dvc project
 ```bash
 dvc init
